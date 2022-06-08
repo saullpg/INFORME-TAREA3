@@ -120,16 +120,24 @@ diagrama esquemático que muestre la disposición del circuito y la colocación 
 
 46 Cada uno de cinco resistores dispuestos en serie manejan 50 mW. ¿Cuál es la potencia total?.
 
+![46](https://user-images.githubusercontent.com/105374903/172625204-e832fea6-cdc9-4e1a-94ac-087b2287e056.jpg)
+
 48 Los siguientes resistores de 1⁄4Westán dispuestos en serie: 1.2 kOHM, 2.2 kOHM, 3.9 kOHM, y 5.6 kOHM. ¿Cuál es
 el voltaje máximo que puede ser aplicado a través de estos resistores sin exceder el valor nominal de
 potencia? ¿Cuál resistor se quemará primero al aplicar un voltaje excesivo?
+
+![48](https://user-images.githubusercontent.com/105374903/172625291-43c1b65f-8e1f-4ef2-8822-17530f6f3f8a.jpg)
 
 50 Cierto circuito en serie se compone de un resistor de 1⁄8W, un resistor de 1⁄4W, y un resistor de 1⁄2 W. La
 resistencia total es de 2400 OMH. Si cada uno de los resistores opera en el circuito a su máxima disipación
 de potencia, determine lo siguiente:
 
+![50](https://user-images.githubusercontent.com/105374903/172625315-5290bc7c-0f58-4d48-9cca-47de28dad36b.jpg)
+
 52 En la figura 5-91, ¿cómo determinaría el voltaje en R2 por medición, sin conectar un medidor directamente
 a través del resistor?
+
+![52](https://user-images.githubusercontent.com/105374903/172625358-20d49dc7-7feb-45ff-8112-aa5d4597e1a5.jpg)
 
 54 Se conecta una serie de cinco resistores a través de una batería de 12 V. Se miden 0 volts en todos los
 resistores excepto en R2. ¿Qué está mal en el circuito? ¿Qué voltaje se medirá a través de R2?
@@ -138,7 +146,9 @@ Si R2=12V el elemento que presenta fallos es R2.
 
 56 ¿Cuál corriente mediría usted en la figura 5-91(b) si sólo R2 estuviera en cortocircuito?
 
-58 Se leen 15 kÆ entre las puntas 5 y 6 de la tarjeta de circuito impreso mostrada en la figura 5-93. ¿Indica
+La intensidad se elevaria ya que el valor de la Resistencia 2 es casi nula. 
+
+58 Se leen 15 kOHM entre las puntas 5 y 6 de la tarjeta de circuito impreso mostrada en la figura 5-93. ¿Indica
 esto un problema? De ser así, identifíquelo.
 
 60 Los tres grupos de resistores en serie mostrados en la tarjeta de circuito impreso de la figura 5-93 están
