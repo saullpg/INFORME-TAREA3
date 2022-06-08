@@ -9,7 +9,7 @@
 
 
 #### 3. EXPLICACION Y RESOLUCION DE EJERCICIOS
-### EJERCICIOS CAPITULO 1
+### EJERCICIOS CAPITULO 5
 
 2. Determine qué resistores de la figura 5-68 están en serie. Demuestre cómo interconectar las puntas para
 poner todos los resistores en serie.
