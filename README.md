@@ -159,3 +159,81 @@ la corriente se reduce a cero y huele a humo. Todos los resistores son de 1⁄2 
 (a) ¿Qué sucedió?
 (b) Específicamente, ¿qué debe hacerse para arreglar el problema?
 (c) ¿Con qué voltaje ocurrió la falla?
+
+
+### EJERCICIOS CAPITULO 6
+
+2 Determine si todos los resistores de la figura 6-65(b) están conectados o no en paralelo en la tarjeta de
+circuito impreso.
+
+4 ¿Cuál es el voltaje entre los extremos y la corriente a través de cada resistor en paralelo si el voltaje total
+es de 12 V y la resistencia total de 550 Æ? Hay cuatro resistores, todos de igual valor.
+
+6 ¿Cuál es la resistencia total del circuito visto desde la fuente de voltaje para cada posición del interruptor
+incluido en la figura 6-68?
+
+8 ¿Cuál es la corriente total suministrada por la fuente de voltaje que muestra la figura 6-68 para cada posición
+del interruptor?
+
+10 Un total de 500 mA entra a cinco resistores en paralelo. Las corrientes a través de los resistores son de:
+50 mA, 150 mA, 25 mA y 100 mA. ¿Cuál es la corriente a través del quinto resistor?
+
+12 En cierta habitación, el circuito eléctrico tiene una lámpara de cielo que consume 1.25 A y cuatro tomas
+de corriente de pared. Dos lámparas de mesa que consumen cada una 0.833 A están conectadas a
+dos tomas de corriente, y un calentador eléctrico que consume 10 A está conectado a la tercer toma de
+corriente. Cuando todos estos elementos están en uso, ¿cuánta corriente hay en la línea principal que
+abastece a la habitación? Si la línea principal está protegida por un cortacircuito de 15 A, ¿cuánta corriente
+puede ser absorbida de la cuarta toma de corriente? Trace un diagrama esquemático de esta instalación
+eléctrica.
+
+14 Los siguientes resistores están conectados en paralelo: 1.0 MHOM, 2.2 MOHM, 5.6 MOHM, 12 MOHM, y 22 MOHM.
+Determine la resistencia total.
+
+16 Calcule RT en cada uno de los circuitos de la figura 6-70.
+
+18 Tres grupos, uno de cinco resistores de 470 OHM, otro de diez resistores de 100 OHM, y uno más de dos resistores
+de 100 OOHM están conectados en paralelo. ¿Cuál es la resistencia total para cada uno de los tres
+agrupamientos?
+
+20 Si la resistencia total en la figura 6-71 es de 389.2 OHM, ¿cuál es el valor de R2?
+
+22 ¿Cuál es la corriente total en cada uno de los circuitos de la figura 6-73?
+
+24 Cuatro resistores de igual valor están conectados en paralelo. Se aplican cinco volts al circuito en paralelo
+y se lee 1.11 mA en la fuente. ¿Cuál es el valor de cada resistor?
+
+26 Encuentre los valores de las cantidades marcadas no especificadas en cada circuito de la figura 6-74.
+
+28 Determine la corriente total suministrada por la fuente y la corriente a través de cada resistor para cada
+una de las posiciones de interruptor mostradas en la figura 6-76.
+
+30 Determine la corriente a través de RL en cada uno de los circuitos de la figura 6-78.
+
+32 ¿Cuánta corriente deberán indicar los medidores de la figura 6-80 a través de cada rama?
+
+34 ¿Cuál es la corriente a través de cada resistor mostrado en la figura 6-82? R es el resistor de valor más
+bajo, y todos los demás valores son múltiplos de éste como se indica.
+
+36 (a) Determine el valor requerido del resistor en derivación RSH1 en el amperímetro de la figura 6-49 si
+la resistencia del movimiento de medidor es de 50 OHM.
+
+38 Cada resistor de un grupo de cinco dispuesto en paralelo maneja 250 mW. ¿Cuál es la potencia total?
+
+40 Seis focos están conectados en paralelo entre los extremos de una fuente de 110 V. Cada foco es de 75 W.
+¿Cuál es la corriente a través de cada foco, y cuál es la corriente total?
+
+42 Cierto circuito en paralelo está compuesto por resistores de sólo 1⁄2W. La resistencia total es de 1.0 kOHM,
+y la corriente total es de 50 mA. Si cada resistor opera a la mitad de su nivel de potencia máxima, determine
+lo siguiente:
+(a) El número de resistores (b) El valor de cada resistor
+(c) La corriente en cada rama (d) El voltaje aplicado
+
+44 En la figura 6-85, se indican las mediciones de corriente y voltaje. ¿Se ha abierto un resistor, y, de ser
+así, cuál?
+
+46 ¿Qué está mal con el circuito de la figura 6-86 si el medidor lee 5.55 mA?
+
+48 Para la tarjeta de circuito mostrada en la figura 6-88, determine la resistencia entre las siguientes puntas
+si hay un corto entre las puntas 2 y 4:
+(a) 1 y 2 (b) 2 y 3 (c) 3 y 4 (d) 1 y 4
+
