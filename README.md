@@ -14,57 +14,104 @@
 2 Determine qué resistores de la figura 5-68 están en serie. Demuestre cómo interconectar las puntas para
 poner todos los resistores en serie.
 
+El circuito de resistencias proporciona sólo una trayectoria para el paso de la corriente entre
+dos puntos, de modo que la corriente es la misma a través de cada resistor en serie, por lo tanto podemos decir que todas las resistencias estan en serie,
+
+![2](https://user-images.githubusercontent.com/105374903/172515297-8489af71-534c-4c9e-86ed-b8bf3c6e394a.jpg)
+
 4 Determine la resistencia nominal presente entre las puntas 2 y 3 del circuito de la figura 5-68.
+
+![4](https://user-images.githubusercontent.com/105374903/172537328-2671fe4c-3fd7-47aa-8d38-05226bfa7947.jpg)
 
 6 ¿Cuál es la corriente a través de cada resistor dispuesto en un circuito en serie si el voltaje total es de
 12 V y la resistencia total de 120 OHM?
+
+![6](https://user-images.githubusercontent.com/105374903/172537343-a754227e-12b3-445d-9596-ccd65f2ae097.jpg)
 
 8 Muestre cómo conectar una fuente de voltaje y un amperímetro a la tarjeta de circuito impreso ilustrada
 en la figura 5-68 para medir la corriente en R1. ¿Qué otras corrientes de resistor se miden con esta
 configuración?
 
+![8](https://user-images.githubusercontent.com/105374903/172537347-dd19b767-0a09-4dfc-98b1-4a4ad0e2c869.jpg)
+
 10 Se conectan los siguientes resistores (uno de cada uno) en un circuito en serie: 1.0 OHM, 2.2 OHM, 5.6 OHM,
 12 OHM, y 22 OHM. Determine la resistencia total.
 
+![10](https://user-images.githubusercontent.com/105374903/172537366-a3e376c1-a480-4d2d-ba0c-e414674e681b.jpg)
+
 12 Calcule la RT en cada circuito de la figura 5-71.
 
+![12](https://user-images.githubusercontent.com/105374903/172537374-c6b5e025-2422-41cf-8dc8-3e024674f062.jpg)
+
 14 Se conectan en serie seis resistores de 56 OHM, ocho de 100 OHM, y dos de 22 OHM. ¿Cuál es la resistencia total?
+
+![14](https://user-images.githubusercontent.com/105374903/172537379-65f3cf5a-7000-4bd0-894a-4c0976f93b71.jpg)
 
 16 Usted dispone de los siguientes valores de resistor en el laboratorio en cantidades ilimitadas: 10 OHM, 100
 OHM, 470 OHM, 560 OHM, 680 OHM, 1.0 kOHM, 2.2 kOHM, y 5.6 kOHM. No hay existencias de todos los demás valores estándar.
 Un proyecto en el que está trabajando requiere emplear una resistencia de 18 kOHM. ¿Qué combinación
 de los valores disponibles utilizaría en serie para lograr la resistencia total?
 
+![16](https://user-images.githubusercontent.com/105374903/172537398-c5105e9a-34f4-4409-b48e-385cf0bfeddb.jpg)
+
 18 En la figura 5-73, ¿cuál es la resistencia total de A a B con cada posición del interruptor?
 
+![18](https://user-images.githubusercontent.com/105374903/172537408-d262edb4-338e-4330-aade-67682f1c1cad.jpg)
+
 20 Determine la caída de voltaje a través de cada resistor mostrado en la figura 5-74.
+
+![20](https://user-images.githubusercontent.com/105374903/172537417-54d91b0c-f18d-49d8-a126-332b22cacb21.jpg)
 
 22 Cuatro resistores de igual valor están en serie con una batería de 5 V y se miden 2.23 mA. ¿Cuál es el
 valor de cada resistor?
 
+![22](https://user-images.githubusercontent.com/105374903/172537424-4cd3ab81-00f0-4582-872c-a5e75d60d878.jpg)
+
 24 Determine VR1, R2 y R3 en la figura 5-76.
 
+![24](https://user-images.githubusercontent.com/105374903/172537437-d3adad25-376c-4bee-9d2a-725b7e8dbd24.jpg)
+
 26 Determine la corriente que el medidor de la figura 5-78 lee en cada posición del interruptor calibrado.
+
+![26](https://user-images.githubusercontent.com/105374903/172537447-0109fa81-9b8e-4c75-bcbd-3fa1827e3174.jpg)
 
 28 El término oposición en serie significa que las fuentes están en serie con polaridades opuestas. Si una
 batería de 12 V y otra de 3 V están en oposición en serie, ¿cuál es el voltaje total?
 
+![28](https://user-images.githubusercontent.com/105374903/172537461-856c365f-1b83-4f16-be61-00e158e8175f.jpg)
+
 30 Se miden las siguientes caídas de voltaje a través de tres resistores dispuestos en serie: 5.5 V, 8.2 V, y
 12.3 V. ¿Cuál es el valor del voltaje de la fuente al que están conectados estos resistores?
+
+![30](https://user-images.githubusercontent.com/105374903/172537486-728aef41-933d-4aca-aff2-275dad25f5bb.jpg)
 
 32 Determine la caída o las caídas de voltaje no especificadas en cada circuito de la figura 5-80. Muestre
 cómo conectar un voltímetro para medir cada una de las caídas de voltaje desconocidas.
 
+![32A](https://user-images.githubusercontent.com/105374903/172537503-d49a55be-7718-4805-a153-b12d2aa1d978.jpg)
+
+![32B](https://user-images.githubusercontent.com/105374903/172537521-52dd251f-ff87-4d23-83cf-2ff6c39f1a65.jpg)
+
 34 Encuentre R1, R2 y R3 en la figura 5-82.
+
+![34](https://user-images.githubusercontent.com/105374903/172537525-d6f7579a-b5d1-4784-ba09-17bf690162ab.jpg)
 
 36 Con el resultado del problema 35, determine el voltaje a través de cada resistor mostrado en la figura
 5-83 para cada posición del interruptor.
 
+![36](https://user-images.githubusercontent.com/105374903/172537537-e95b0288-01f3-4cac-856c-1726e6df56ab.jpg)
+
 38 Determine el voltaje entre los puntos A y B en cada divisor de voltaje de la figura 5-84.
+
+![38](https://user-images.githubusercontent.com/105374903/172537543-054aa5a7-dc92-437c-99fd-c9a6f45b59f8.jpg)
 
 40 Determine los voltajes mínimo y máximo producidos por el divisor de voltaje de la figura 5-85(b).
 
+![40](https://user-images.githubusercontent.com/105374903/172537556-c035ceb0-b8a4-4dac-946f-0f0764023858.jpg)
+
 42 En cada punto de la figura 5-87, determine el voltaje con respecto al lado negativo de la batería.
+
+![42](https://user-images.githubusercontent.com/105374903/172537562-49b60e3d-073f-4188-8168-66de345a5384.jpg)
 
 44 Con la tabla de valores estándar de resistor dada en el apéndice A, diseñe un divisor de voltaje para producir
 los siguientes voltajes aproximados con respecto a tierra utilizando una fuente de 30 V; 8.18 V, 14.7 V, y 24.6 V. La corriente extraída de la fuente debe limitarse a no más de 1 mA. El número de resistores, sus
