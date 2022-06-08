@@ -23,7 +23,7 @@ poner todos los resistores en serie.
 en la figura 5-68 para medir la corriente en R1. ¿Qué otras corrientes de resistor se miden con esta
 configuración?
 
-10. Se conectan los siguientes resistores (uno de cada uno) en un circuito en serie: 1.0 Æ OHM, 2.2 OHM, 5.6 OHM,
+10. Se conectan los siguientes resistores (uno de cada uno) en un circuito en serie: 1.0 OHM, 2.2 OHM, 5.6 OHM,
 12 OHM, y 22 OHM. Determine la resistencia total.
 
 12. Calcule la RT en cada circuito de la figura 5-71.
