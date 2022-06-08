@@ -134,6 +134,8 @@ a través del resistor?
 54 Se conecta una serie de cinco resistores a través de una batería de 12 V. Se miden 0 volts en todos los
 resistores excepto en R2. ¿Qué está mal en el circuito? ¿Qué voltaje se medirá a través de R2?
 
+Si R2=12V el elemento que presenta fallos es R2.
+
 56 ¿Cuál corriente mediría usted en la figura 5-91(b) si sólo R2 estuviera en cortocircuito?
 
 58 Se leen 15 kÆ entre las puntas 5 y 6 de la tarjeta de circuito impreso mostrada en la figura 5-93. ¿Indica
