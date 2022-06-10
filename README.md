@@ -204,6 +204,8 @@ y se lee 1.11 mA en la fuente. ¿Cuál es el valor de cada resistor?
 
 26 Encuentre los valores de las cantidades marcadas no especificadas en cada circuito de la figura 6-74.
 
+![26](https://user-images.githubusercontent.com/105374903/172966725-d8c127df-1211-40fa-b3c1-b2a5994e5d25.jpg)
+
 28 Determine la corriente total suministrada por la fuente y la corriente a través de cada resistor para cada
 una de las posiciones de interruptor mostradas en la figura 6-76.
 
