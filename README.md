@@ -113,11 +113,6 @@ cómo conectar un voltímetro para medir cada una de las caídas de voltaje desc
 
 ![42](https://user-images.githubusercontent.com/105374903/172537562-49b60e3d-073f-4188-8168-66de345a5384.jpg)
 
-44 Con la tabla de valores estándar de resistor dada en el apéndice A, diseñe un divisor de voltaje para producir
-los siguientes voltajes aproximados con respecto a tierra utilizando una fuente de 30 V; 8.18 V, 14.7 V, y 24.6 V. La corriente extraída de la fuente debe limitarse a no más de 1 mA. El número de resistores, sus
-valores, y sus valores nominales de potencia en watts deben ser especificados. Se debe proporcionar un
-diagrama esquemático que muestre la disposición del circuito y la colocación de los resistores.
-
 46 Cada uno de cinco resistores dispuestos en serie manejan 50 mW. ¿Cuál es la potencia total?.
 
 ![46](https://user-images.githubusercontent.com/105374903/172625204-e832fea6-cdc9-4e1a-94ac-087b2287e056.jpg)
@@ -147,19 +142,6 @@ Si R2=12V el elemento que presenta fallos es R2.
 56 ¿Cuál corriente mediría usted en la figura 5-91(b) si sólo R2 estuviera en cortocircuito?
 
 La intensidad se elevaria ya que el valor de la Resistencia 2 es casi nula. 
-
-58 Se leen 15 kOHM entre las puntas 5 y 6 de la tarjeta de circuito impreso mostrada en la figura 5-93. ¿Indica
-esto un problema? De ser así, identifíquelo.
-
-60 Los tres grupos de resistores en serie mostrados en la tarjeta de circuito impreso de la figura 5-93 están
-conectados en serie entre sí para formar un solo circuito en serie conectando la punta 2 a la 4 y la 3
-a la 5. Se conecta una fuente de voltaje entre las puntas 1 y 6 y se coloca un amperímetro en serie. Conforme
-aumenta el voltaje de la fuente, se observa el incremento correspondiente de la corriente. De improviso,
-la corriente se reduce a cero y huele a humo. Todos los resistores son de 1⁄2 W.
-(a) ¿Qué sucedió?
-(b) Específicamente, ¿qué debe hacerse para arreglar el problema?
-(c) ¿Con qué voltaje ocurrió la falla?
-
 
 ### EJERCICIOS CAPITULO 6
 
@@ -279,7 +261,5 @@ así, cuál?
 
 ![46](https://user-images.githubusercontent.com/105374903/173204486-2d5a16fe-bf47-4ecf-b80c-b89e099f42cb.jpg)
 
-48 Para la tarjeta de circuito mostrada en la figura 6-88, determine la resistencia entre las siguientes puntas
-si hay un corto entre las puntas 2 y 4:
-(a) 1 y 2 (b) 2 y 3 (c) 3 y 4 (d) 1 y 4
+
 
