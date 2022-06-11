@@ -9,6 +9,8 @@
 
 ![Diagrama en blanco](https://user-images.githubusercontent.com/105374903/173207942-7b6dbbd6-81a1-4663-a828-2c2c428502d1.png)
 
+![Diagrama en blanco (3)](https://user-images.githubusercontent.com/105374903/173208681-a8b2f436-856a-49a3-aaf8-6d166583bc5d.png)
+
 ![Diagrama en blanco (2)](https://user-images.githubusercontent.com/105374903/173208337-a4677393-352f-4d3b-844f-9f51f865b553.png)
 
 ![Diagrama en blanco (1)](https://user-images.githubusercontent.com/105374903/173208254-20d8d0e1-7f1d-46f6-91a8-8b41f7b6d5c9.png)
