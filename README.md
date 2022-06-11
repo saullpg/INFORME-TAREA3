@@ -178,6 +178,9 @@ abastece a la habitación? Si la línea principal está protegida por un cortaci
 puede ser absorbida de la cuarta toma de corriente? Trace un diagrama esquemático de esta instalación
 eléctrica.
 
+![12a](https://user-images.githubusercontent.com/105374903/173206788-6b0d9dc5-6561-4ce9-ba3a-1db2c825ec2e.jpg)
+![12](https://user-images.githubusercontent.com/105374903/173206790-f3514026-b898-485e-b2ff-9ce99c98f7ce.jpg)
+
 14 Los siguientes resistores están conectados en paralelo: 1.0 MHOM, 2.2 MOHM, 5.6 MOHM, 12 MOHM, y 22 MOHM.
 Determine la resistencia total.
 
