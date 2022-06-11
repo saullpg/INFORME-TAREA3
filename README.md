@@ -8,6 +8,7 @@
 #### 2. MARCO TEORICO
 
 ![Diagrama en blanco](https://user-images.githubusercontent.com/105374903/173207942-7b6dbbd6-81a1-4663-a828-2c2c428502d1.png)
+![Diagrama en blanco (1)](https://user-images.githubusercontent.com/105374903/173208141-a057e0f1-9ef3-4b85-a8f1-d013d5404618.png)
 
 #### 3. EXPLICACION Y RESOLUCION DE EJERCICIOS
 ### EJERCICIOS CAPITULO 5
