@@ -273,7 +273,11 @@ lo siguiente:
 44 En la figura 6-85, se indican las mediciones de corriente y voltaje. ¿Se ha abierto un resistor, y, de ser
 así, cuál?
 
+![44](https://user-images.githubusercontent.com/105374903/173204483-bcfdb299-2aa6-48b8-a073-ad40aface0a1.jpg)
+
 46 ¿Qué está mal con el circuito de la figura 6-86 si el medidor lee 5.55 mA?
+
+![46](https://user-images.githubusercontent.com/105374903/173204486-2d5a16fe-bf47-4ecf-b80c-b89e099f42cb.jpg)
 
 48 Para la tarjeta de circuito mostrada en la figura 6-88, determine la resistencia entre las siguientes puntas
 si hay un corto entre las puntas 2 y 4:
