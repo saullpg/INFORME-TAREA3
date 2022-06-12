@@ -9,8 +9,11 @@
 ##### 1.2. OBJETIVOS ESPECIFICOS
 
 - Identificar las propiedades de la corriente y el voltaje en un circuito serie.
+
 - Idedntificar las propiedades de la corriente, voltaje y resistencia en un circuito paralelo.
+
 - Emplear las leyes de kirchooff en circuitos serie y paralelo.
+
 - Emplear divisores de corriente y voltaje.
 
 #### 2. MARCO TEORICO
@@ -285,7 +288,14 @@ así, cuál?
 
 
 #### 5. CONCLUSIONES
+
 - Para calcular la resistencia total en paralelo de solamente dos resistencias podemos usar la formula (R1*R2)/(R1+R2).
+
 - La  intensidad en un circuito serie es constante y el voltaje es diferente en cada componente.
+
 - El voltaje en un circuito paralelo es constante y la intensidad es diferente en cada componente.
+
 - La potencia se calcula de la misma manera tanto en un circuito en serie como en un circuito paralelo.
+
+#### 6. BIBLIOGRAFIA
+Floyd, T. L. (2007). Principios de Circuitos Eléctricos (8va Edición ed.). (L. Cruz Castillo, Ed.) México: Cámara Nacional de la Industria Editorial Mexicana.
