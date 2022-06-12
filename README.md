@@ -158,7 +158,7 @@ circuito impreso.
 ![2](https://user-images.githubusercontent.com/105374903/172985252-b0c6f1aa-3640-4ef0-80e2-e88c9ba96046.jpg)
 
 4 ¿Cuál es el voltaje entre los extremos y la corriente a través de cada resistor en paralelo si el voltaje total
-es de 12 V y la resistencia total de 550 Æ? Hay cuatro resistores, todos de igual valor.
+es de 12 V y la resistencia total de 550 OHM? Hay cuatro resistores, todos de igual valor.
 
 ![4](https://user-images.githubusercontent.com/105374903/172985261-781012f9-9fe0-4bd9-a249-ebaca5ddfeb4.jpg)
 
