@@ -1,9 +1,17 @@
 # INFORME-TAREA3
 
 #### 1. OBJETIVO
+
 ##### 1.1. OBJETIVO GENERAL
 
+- Reconocer las caracteristicas de un circuito serie y un circuito paralelo.
+
 ##### 1.2. OBJETIVOS ESPECIFICOS
+
+- Identificar las propiedades de la corriente y el voltaje en un circuito serie.
+- Idedntificar las propiedades de la corriente, voltaje y resistencia en un circuito paralelo.
+- Emplear las leyes de kirchooff en circuitos serie y paralelo.
+- Emplear divisores de corriente y voltaje.
 
 #### 2. MARCO TEORICO
 
@@ -272,4 +280,12 @@ así, cuál?
 ![46](https://user-images.githubusercontent.com/105374903/173204486-2d5a16fe-bf47-4ecf-b80c-b89e099f42cb.jpg)
 
 
+#### 4. VIDEO
 
+
+
+#### 5. CONCLUSIONES
+- Para calcular la resistencia total en paralelo de solamente dos resistencias podemos usar la formula (R1*R2)/(R1+R2).
+- La  intensidad en un circuito serie es constante y el voltaje es diferente en cada componente.
+- El voltaje en un circuito paralelo es constante y la intensidad es diferente en cada componente.
+- La potencia se calcula de la misma manera tanto en un circuito en serie como en un circuito paralelo.
